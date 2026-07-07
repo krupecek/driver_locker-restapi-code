@@ -6,4 +6,4 @@ Obsluga wyswietlacza, obsługa rfid czytnik po i2c (0x24), obsługa modułu ethe
 
 bibioteka esp32 w wersji 3.3.10
 
-Na prototypie testując mcp23017 mamy na kazdym esp32 
+Na prototypie testując mamy wersję 3.3.10 biblioteki esp32 
